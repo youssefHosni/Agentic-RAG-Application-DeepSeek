@@ -3,6 +3,9 @@
 ## Overview
 Agentic RAG is a project focused on developing a Retrieval-Augmented Generation (RAG) system with agentic capabilities. This system aims to enhance the retrieval and generation of information by incorporating intelligent agent behaviors.
 
+![image](https://github.com/user-attachments/assets/58e29927-f186-4cc5-957d-05a67e9ab2b0)
+
+
 ## Features
 - **Intelligent Retrieval**: Efficiently retrieves relevant information from large datasets.
 - **Enhanced Generation**: Generates coherent and contextually appropriate responses.
